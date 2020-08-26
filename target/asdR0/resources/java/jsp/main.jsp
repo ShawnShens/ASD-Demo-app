@@ -14,14 +14,14 @@
     <title>Home page</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
           integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../../../css/index.css">
 </head>
 
 <body>
     <div>
         <div class="d-flex flex-column flex-md-row align-items-center p-3 mb-3 bg-white shadow-sm">
             <a href="" class="logo my-0 mr-md-auto font-weight-normal">
-                <img src="../resources/logo.png" class="logo my-0 mr-md-auto font-weight-normal" alt="" class="logo">
+                <img src="../../logo.png" class="logo my-0 mr-md-auto font-weight-normal" alt="" class="logo">
             </a>
             <span>Welcome <span style="color: orangered;">XXX</span></span>
         </div>
@@ -31,7 +31,7 @@
             <ul class="nav-card clearfix" id="service">
                 <h3>Services</h3>
                 <li class="card" style="width: 18rem;">
-                    <img src="../resources/top up.jpg" class="card-img-top" alt="...">
+                    <img src="../../top%20up.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Top up</h5>
                         <p class="card-text">Plan ahead or top up online</p>
@@ -40,7 +40,7 @@
                 </li>
 
                 <li class="card" style="width: 18rem;">
-                    <img src="../resources/buy.png" alt="...">
+                    <img src="../../buy.png" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">purchase</h5>
                         <p class="card-text">Purchase an opal card</p>
@@ -49,7 +49,7 @@
                 </li>
 
                 <li class="card" style="width: 18rem;">
-                    <img src="../resources/paper.jpg" alt="...">
+                    <img src="../../paper.jpg" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Term of use</h5>
                         <p class="card-text">Understand your responsibilities</p>
@@ -58,7 +58,7 @@
                 </li>
 
                 <li class="card" style="width: 18rem;">
-                    <img src="../resources/transfer.jpg" alt="...">
+                    <img src="../../transfer.jpg" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Transfer</h5>
                         <p class="card-text">Transfer between two accounts</p>
@@ -67,7 +67,7 @@
                 </li>
 
                 <li class="card" style="width: 18rem;">
-                    <img src="../resources/info.jpg" alt="...">
+                    <img src="../../info.jpg" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card information</h5>
                         <p class="card-text">Find your card information</p>
@@ -77,7 +77,7 @@
                 </li>
 
                 <li class="card" style="width: 18rem;">
-                    <img src="../resources/management.jpg" alt="...">
+                    <img src="../../management.jpg" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Manage card</h5>
                         <p class="card-text">Manage your opal card online</p>
