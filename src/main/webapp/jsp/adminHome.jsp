@@ -49,8 +49,8 @@
                 <button type="submit" class="btn btn-default">Submit</button>
             </form>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Main Page</a></li>
-                <li><a href="#">Logout</a></li>
+                <li><a href="main.jsp">Main Page</a></li>
+                <li><a href="../index.jsp">Logout</a></li>
             </ul>
         </div>
 

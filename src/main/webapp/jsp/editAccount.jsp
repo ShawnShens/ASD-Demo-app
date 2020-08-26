@@ -2,7 +2,7 @@
   Created by IntelliJ IDEA.
   User: Gao
   Date: 26/08/2020
-  Time: 9:48 pm
+  Time: 9:47 pm
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -35,9 +35,9 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li ><a href="adminHome.jsp" onclick="_hmt.push(['_trackEvent', 'docv3-navbar', 'click',])">Home</a> </li>
-                <li class="active"><a href="#">User Information edit</a> </li>
-                <li><a href="editAccount.jsp" onclick="_hmt.push(['_trackEvent', 'docv3-navbar', 'click',])">User Account edit</a> </li>
+                <li><a href="adminHome.jsp" onclick="_hmt.push(['_trackEvent', 'docv3-navbar', 'click',])">Home</a> </li>
+                <li><a href="editInfo.jsp" onclick="_hmt.push(['_trackEvent', 'docv3-navbar', 'click',])">User Information edit</a> </li>
+                <li class="active"><a href="#">User Account edit</a> </li>
             </ul>
             <form class="navbar-form navbar-left">
                 <div class="form-group">
@@ -46,8 +46,8 @@
                 <button type="submit" class="btn btn-default">Submit</button>
             </form>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Main Page</a></li>
-                <li><a href="#">Logout</a></li>
+                <li><a href="main.jsp">Main Page</a></li>
+                <li><a href="../index.jsp">Logout</a></li>
             </ul>
         </div>
 
@@ -64,6 +64,7 @@
 
 <div class="text-center">
     <input placeholder="UserID"></div>
+
 <!-- 按钮触发模态框 -->
 <button class="btn btn-primary btn-lg center-block" data-toggle="modal" data-target="#myModal">
     Enter
@@ -131,8 +132,8 @@
         </div><!-- /.modal-content -->
     </div><!-- /.modal -->
 </div>
+
+
 </div>
-
-
 </body>
 </html>
