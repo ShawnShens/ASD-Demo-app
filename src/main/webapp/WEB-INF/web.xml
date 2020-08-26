@@ -25,5 +25,25 @@
     <url-pattern>/signupController</url-pattern>
   </servlet-mapping>
 
+<!-- my part -->
+  <servlet>
+    <servlet-name>editController</servlet-name>
+    <servlet-class>com.app.asd.Controller.editController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>editController</servlet-name>
+    <url-pattern>/editController</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>linkController</servlet-name>
+    <servlet-class>com.app.asd.Controller.linkController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>linkController</servlet-name>
+    <url-pattern>/linkController</url-pattern>
+  </servlet-mapping>
+
+
 </web-app>
 
