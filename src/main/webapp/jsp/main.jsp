@@ -44,7 +44,7 @@
                     <div class="card-body">
                         <h5 class="card-title">purchase</h5>
                         <p class="card-text">Purchase an opal card</p>
-                        <a href="#" class="btn btn-primary">Go for it</a>
+                         <a href="../payment.jsp" class="btn btn-primary">Go for it</a>
                     </div>
                 </li>
 
