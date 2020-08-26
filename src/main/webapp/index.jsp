@@ -21,7 +21,7 @@
         <h2>Welcome to <span style="color:orangered">opel card service</span></h2>
         <p>We provide fast opel card service for all of our customers!</p>
         <p>Let's check it out!!!</p>
-        <a class="btn btn-outline-primary" href="signup.jsp">Sign up</a>
+        <a class="btn btn-outline-primary" href="adminHome.jsp">Sign up</a>
         &nbsp;
         <a class="btn btn-outline-primary" href="login.jsp">Login</a>
     </div>
