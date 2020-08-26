@@ -71,7 +71,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Card information</h5>
                         <p class="card-text">Find your card information</p>
-                        <a href="../userInfo.jsp" class="btn btn-primary">Go for it</a>
+                        <a href="userInfo.jsp" class="btn btn-primary">Go for it</a>
 
                     </div>
                 </li>
